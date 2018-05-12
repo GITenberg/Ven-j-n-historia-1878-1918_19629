@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '8785'
     url: http://www.gutenberg.org/2009/agents/8785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19629#Ven-j-n-historia-1878-1918
 gutenberg_issued: '2006-10-24'
 gutenberg_type: Text
 identifiers:
